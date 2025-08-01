@@ -2,6 +2,6 @@ html, body {
   margin: 10;
   padding: 0;
   background-color: rgb(153, 177, 192);
-} h1 {
+} header, h1 {
 color: brown;
 }
