@@ -2,7 +2,15 @@ body {
   margin: 10;
   padding: 0;
   background-color: rgb(41, 41, 41);
+  color: white
 } header {
   color: brown;
   background-color: rgb(14, 14, 14);
+} hr {
+  display: block;
+  height: 4px;
+  border: 0;
+  border-top: 1px solid #830000;
+  margin: 1em 0;
+  padding: 0;
 }
